@@ -16,23 +16,23 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MetricaAdapter",
-            url: "https://github.com/RinatAbidullin/Varioqub/releases/download/0.7.1/MetricaAdapter.xcframework.zip",
-            checksum: "eda15aa09263d03f6a1bf9d925c822feea27a288decb7ea0cffc8ed6e3b46a09"
+            url: "https://github.com/RinatAbidullin/Varioqub/releases/download/0.8.1/MetricaAdapter.xcframework.zip",
+            checksum: "6a239ecb25011b78190d4f2965a8c94d758c82bad0308af84c1a7fbaef32c471"
         ),
         .binaryTarget(
             name: "MetricaAdapterReflection",
-            url: "https://github.com/RinatAbidullin/Varioqub/releases/download/0.7.1/MetricaAdapterReflection.xcframework.zip",
-            checksum: "d64e5f58e8223bc6d0db8646c8dd59b39c06b656eb82af4751732a855b3e5717"
+            url: "https://github.com/RinatAbidullin/Varioqub/releases/download/0.8.1/MetricaAdapterReflection.xcframework.zip",
+            checksum: "660dfb3a7e268c410be75143d49dac7644ff0f4cb772107317e499ed4102b2e1"
         ),
         .binaryTarget(
             name: "Varioqub",
-            url: "https://github.com/RinatAbidullin/Varioqub/releases/download/0.7.1/Varioqub.xcframework.zip",
-            checksum: "5729ea77058fe6f730767bfe953876a9fa2c609530bab5fab418f5812a22e60e"
+            url: "https://github.com/RinatAbidullin/Varioqub/releases/download/0.8.1/Varioqub.xcframework.zip",
+            checksum: "3b785c4f81a4799d9141c0b1a97bbfc1faadfd7ca62182afb6ee7ef7fc9d9851"
         ),
         .binaryTarget(
             name: "VQSwiftProtobuf",
-            url: "https://github.com/RinatAbidullin/Varioqub/releases/download/0.7.1/VQSwiftProtobuf.xcframework.zip",
-            checksum: "2fbf1ad1b369629aa0e4b16eb53e55aa2313bb19ebd40035b569f18df934d146"
+            url: "https://github.com/RinatAbidullin/Varioqub/releases/download/0.8.1/VQSwiftProtobuf.xcframework.zip",
+            checksum: "d451111d87b02aacdc8dc37407f401e28720b3c534e0ebee5acdce6bca2d9739"
         ),
     ]
 )
